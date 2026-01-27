@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Dexter+Logo" alt="Dexter Logo" width="180">
+  <img src="https://github.com/Purvajghude/Dexter-V1/blob/8d7d712b889001e11ee9c55f640e854c001c826c/Gemini_Generated_Image_tzyde1tzyde1tzyd.png" alt="Dexter Logo" width="400">
   <br>
 
   # 🧠 D E X T E R
@@ -39,10 +39,10 @@ Dexter isn't just a dashboard; it's a **unified cognitive engine**. It takes the
 
 ### 🧩 The Core Features
 
-| **The Dashboard** | **The Visuals** |
+| ✨**Conscious Dashboard** | 🖲️**Unified Tracking + Holistic productivity** |
 |:---:|:---:|
-| 📊 **Unified Tracking** | 🕸️ **Balance Radar** |
-| Work, Sleep, Vitals, & Screen Time in one view. | Spider charts to visualize where you're lacking. |
+| 📊 **Gemini as the Brain** | 🕸️ **Charts, heatmaps, timers, journals** |
+| 🧠**Neuro-Aid**. | **⚙️Your Own JARVIS**. |
 
 <details>
 <summary><b>🧠 Click to see the Neuro-Aid Tools ▾</b></summary>
