@@ -1,125 +1,20 @@
 <div align="center">
-  <img src="https://github.com/Purvajghude/Dexter-V1/blob/c6801891747cdfc7ac7daa74b747f52e214e9341/Gemini_Generated_Image_tzyde1tzyde1tzyd.png" alt="Dexter Logo" width="180">
-  <br>
-
-  # 🧠 D E X T E R
-  **The AI Cognitive Performance Companion**
-
-  > *"Transforming raw habits into cognitive intelligence."*
-
-  [![Made with Gemini](https://img.shields.io/badge/AI-Gemini%201.5%20Pro-8E75B2?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
-  [![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20Firebase-FFCA28?style=for-the-badge)]()
-  [![Status](https://img.shields.io/badge/Status-Hackathon%20MVP-FF6B6B?style=for-the-badge)]()
-
-  <p align="center">
-    <a href="#-why-we-built-this">Why?</a> •
-    <a href="#-meet-dexter">The Solution</a> •
-    <a href="#-how-it-works">How it Works</a> •
-    <a href="#-tech-stack">Tech Stack</a> •
-    <a href="#-the-team">The Team</a>
-  </p>
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
----
+# Run and deploy your AI Studio app
 
-## 🚀 Why we built this
-**Let's be real: Being a student today is exhausting.**
+This contains everything you need to run your app locally.
 
-We juggle assignments, sleep deprivation, and endless screen time. We try to be productive, but we're flying blind. We track our steps, but **nobody tracks our brain.**
-* Are we burning out?
-* Is our "focus" actually productive?
-* Do we have the mental capacity for that next chapter?
+View your app in AI Studio: https://ai.studio/apps/drive/1ziyzSjWpN4-wfgjA9NJM9fp3ZeScMUjx
 
-Existing tools track habits, but they **don't quantify cognitive readiness**. We built Dexter to fix that.
+## Run Locally
 
----
+**Prerequisites:**  Node.js
 
-## 💡 Meet Dexter
-Dexter isn't just a dashboard; it's a **unified cognitive engine**. It takes the chaos of your daily life—your sleep, your screen time, your heart rate—and converts it into a single, real-time **Cognitive Score**.
 
-### 🧩 The Core Features
-
-| **✨Intelligent Dashboard** | **💯Adaptive Scoring + Unified Tracking** |
-|:---:|:---:|
-| 📊 **Academic Planner** | 🕸️ **Gemini in the backend** |
-| 📝 **Smart To-do list**. | 🧠 **Neuro-aid**. |
-
-<details>
-<summary><b>🧠 Click to see the Neuro-Aid Tools ▾</b></summary>
-<br>
-Dexter includes an AI-powered "Neuro-Aid" suite:
-<ul>
-  <li><b>Text to Audio:</b> For the people who just wants to see their textbooks come to life.</li>
-  <li><b>Dyslexia Reader:</b> Converts normal texts into dyslexia friendly text.</li>
-  <li><b>Panic Mode Assistant:</b> Quick grounding techniques when anxiety hits.</li>
-  <li><b>ADHD Task Manager:</b> Helps in task comepletion for people with ADHD.</li>
-</ul>
-</details>
-
----
-
-## 🧠 How Dexter Works (The Flow)
-
-We designed a simple loop to turn raw data into coaching:
-
-1.  **Input:** You log your day (tasks, journals, mood) or sync devices.
-2.  **Pattern Recognition:** Dexter stores the data and looks for trends.
-3.  **The "Gemini Brain":** Google's **Gemini AI** analyzes your behavioral patterns against your cognitive goals.
-4.  **Output:** You get a "Mentor" response—personalized advice to fix your schedule before you burn out.
-
----
-
-## 🏗 Intelligent Architecture
-
-<div align="center">
-  <code>Work Data</code> + <code>Sleep</code> + <code>Screen Time</code> + <code>Vitals</code>
-  <br>⬇️<br>
-  <b>✨ GEMINI AI BRAIN ✨</b>
-  <br>⬇️<br>
-  <b>Cognitive Score & Coaching</b>
-</div>
-
----
-
-## 🧩 Tech Stack
-
-We used the full power of the Google Ecosystem:
-
-* ![Gemini](https://img.shields.io/badge/Google%20AI-Gemini%20API-8E75B2?style=flat-square&logo=googlebard&logoColor=white) **The Brain** (Cognitive Insights)
-* ![Firebase](https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) **Auth & Firestore Database**
-* ![IDX](https://img.shields.io/badge/Dev-Project%20IDX-4285F4?style=flat-square&logo=google&logoColor=white) **Development Environment**
-* ![Vercel](https://img.shields.io/badge/Deploy-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) **Hosting**
-* 🔊 **Google Text-to-Speech** (Neuro Aid Voice)
-* 🍌 **Nano Banana Lite AI Tools** (Cognitive Modules)
-
----
-
-## 🌍 Impact & Future
-
-**Students are facing a burnout epidemic.** Dexter is our attempt to give them a tool to fight back.
-
-**What's Next?**
-* [ ] **Fitbit/Google Fit Integration:** Automating the health data flow.
-* [ ] **Generative UI:** A dashboard that changes layout based on your stress levels.
-* [ ] **Gamification:** Leaderboards to make "Cognitive Health" a team sport.
-
----
-
-## 👨‍💻 The Team
-
-Built with 💻 and ☕ by:
-
-| **Parth Patil** | **Pooja Ghule** | **Sanskar Bandekar** | **Purvaj Ghude** |
-|:---:|:---:|:---:|:---:|
-| 👑 Team Lead<br>System Design | 🎨 UI/UX<br>Presentation | 🚀 Deployment<br>Frontend | 🧠 Logic Design<br>Backend Features |
-
----
-
-<div align="center">
-  <h3>🌐 Live Demo</h3>
-  <a href="YOUR_VERCEL_LINK_HERE">
-    <img src="https://img.shields.io/badge/View_On-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Link">
-  </a>
-  <br><br>
-  <i>Open for academic & research use. Hackathon Project 2026.</i>
-</div>
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
