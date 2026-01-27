@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Purvajghude/Dexter-V1/blob/3fce3e3da7c06197c2640f0f4fab6063f2e358af/Gemini_Generated_Image_tzyde1tzyde1tzyd.png" alt="Dexter Logo" width="180">
+  <img src="https://github.com/Purvajghude/Dexter-V1/blob/c6801891747cdfc7ac7daa74b747f52e214e9341/Gemini_Generated_Image_tzyde1tzyde1tzyd.png" alt="Dexter Logo" width="180">
   <br>
 
   # 🧠 D E X T E R
@@ -39,19 +39,20 @@ Dexter isn't just a dashboard; it's a **unified cognitive engine**. It takes the
 
 ### 🧩 The Core Features
 
-| **The Dashboard** | **The Visuals** |
+| **✨Intelligent Dashboard** | **💯Adaptive Scoring + Unified Tracking** |
 |:---:|:---:|
-| 📊 **Unified Tracking** | 🕸️ **Balance Radar** |
-| Work, Sleep, Vitals, & Screen Time in one view. | Spider charts to visualize where you're lacking. |
+| 📊 **Academic Planner** | 🕸️ **Gemini in the backend** |
+| 📝 **Smart To-do list**. | 🧠 **Neuro-aid**. |
 
 <details>
 <summary><b>🧠 Click to see the Neuro-Aid Tools ▾</b></summary>
 <br>
 Dexter includes an AI-powered "Neuro-Aid" suite:
 <ul>
-  <li><b>AI Study Mentor:</b> Adaptive study plans based on your current energy.</li>
+  <li><b>Text to Audio:</b> For the people who just wants to see their textbooks come to life.</li>
+  <li><b>Dyslexia Reader:</b> Converts normal texts into dyslexia friendly text.</li>
   <li><b>Panic Mode Assistant:</b> Quick grounding techniques when anxiety hits.</li>
-  <li><b>Cognitive Coaching:</b> A chat interface that acts like a therapist/coach.</li>
+  <li><b>ADHD Task Manager:</b> Helps in task comepletion for people with ADHD.</li>
 </ul>
 </details>
 
