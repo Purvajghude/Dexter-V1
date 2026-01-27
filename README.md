@@ -37,6 +37,37 @@ Existing tools track habits, but they **don't quantify cognitive readiness**. We
 ## 💡 Meet Dexter
 Dexter isn't just a dashboard; it's a **unified cognitive engine**. It takes the chaos of your daily life—your sleep, your screen time, your heart rate—and converts it into a single, real-time **Cognitive Score**.
 
+## 🖼️ Image Gallery
+### Login Page
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Login.png" alt="Firebase Auth" width="400">
+
+### Dashboard
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Dashboard%20-%20Light.png" alt="Dashboard - Light" width="400">
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Dashboard%20-%20Dark.png" alt="Dashboard Dark" width="400">
+
+### Strategy Map
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Strategy%20Map.png" alt="Strategy Map" width="400">
+
+### Studyroom
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Dashboard%20-%20Light.png" alt="Dashboard - Light" width="400">
+
+### Smart To-Do List
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Smart%20To%20-Do%20list.png" alt="To-Do list" width="400">
+
+### Journal
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Journal.png" alt="Journal" width="400">
+
+### Focus Timer
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Focus%20Timer.png" alt="Focus Timer" width="400">
+
+### Neuro-Aid
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Audio.png" alt="Auditory Aid" width="400">
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Dyslexia%20Dark.png" alt="Dyslexia" width="400">
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/Panic%20Button.png" alt="Panic Button " width="400">
+<img src="https://github.com/Purvajghude/Dexter-V1/blob/317e3616cb6c51b885a927a3617a3449766ea0f0/Readme/ADHD%20Action.png" alt="ADHD Action button" width="400">
+
+
+
 ### 🧩 The Core Features
 
 | ✨**Conscious Dashboard** | 🖲️**Unified Tracking + Holistic productivity** |
