@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Dexter+Logo" alt="Dexter Logo" width="180">
+  <img src="https://github.com/Purvajghude/Dexter-V1/blob/3fce3e3da7c06197c2640f0f4fab6063f2e358af/Gemini_Generated_Image_tzyde1tzyde1tzyd.png" alt="Dexter Logo" width="180">
   <br>
 
   # 🧠 D E X T E R
